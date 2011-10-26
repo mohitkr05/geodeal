@@ -1,0 +1,1 @@
+2011-10-16 05:22:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'lat' cannot be null</span> in [C:\xampp\htdocs\cake\cake\libs\model\datasources\dbo_source.php, line 684]

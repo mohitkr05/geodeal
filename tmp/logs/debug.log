@@ -1,0 +1,7 @@
+2011-10-17 07:14:40 Debug: Notice (8): Undefined variable: Auth in [C:\xampp\htdocs\webapp\myapp\app_controller.php, line 39]
+2011-10-17 07:30:25 Debug: Notice (8): Use of undefined constant type - assumed 'type' in [C:\xampp\htdocs\webapp\myapp\views\users\register.ctp, line 11]
+2011-10-17 07:32:13 Debug: Notice (8): Undefined variable: admin in [C:\xampp\htdocs\webapp\myapp\views\users\register.ctp, line 14]
+2011-10-17 07:37:58 Debug: Notice (8): Undefined variable: admin in [C:\xampp\htdocs\webapp\myapp\app_controller.php, line 44]
+2011-10-17 07:37:58 Debug: Notice (8): Undefined variable: admin in [C:\xampp\htdocs\webapp\myapp\views\users\register.ctp, line 14]
+2011-10-17 07:37:59 Debug: Notice (8): Undefined variable: admin in [C:\xampp\htdocs\webapp\myapp\app_controller.php, line 44]
+2011-10-17 07:37:59 Debug: Notice (8): Undefined variable: admin in [C:\xampp\htdocs\webapp\myapp\views\users\register.ctp, line 14]
